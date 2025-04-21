@@ -1,6 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
 ## Getting Started
+
+Integrasi pertama download model ke lokal 
+-https://ollama.com/
+-intall dan run di terminal
+
 
 First, run the development server:
 
